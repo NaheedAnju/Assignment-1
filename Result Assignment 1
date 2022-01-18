@@ -1,0 +1,31 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+ RESTART: C:\Users\HP\AppData\Local\Programs\Python\Python37-32\PEC Practical.py 
+-------------------------Question 1-------------------------
+Enter 1st Number - 10
+Enter 2nd Number - 11
+Enter 3rd Number - 12
+Average of Three numbers -  11.0
+-------------------------Question 2-------------------------
+Enter your gross income - 1000000
+Enter number of dependents - 2
+Your income tax -  196800.0
+-------------------------Question 3-------------------------
+Enter your SID - 21104002
+Enter your name - Naheed Anjum
+Enter your gender(F,M,U) - F
+Enter your course name - Python
+Enter your CGPA - 9
+Student data list -  ['21104002', 'Naheed Anjum', 'F', 'Python', 9.0]
+-------------------------Question 4-------------------------
+Enter marks of student 1 - 98
+Enter marks of student 2 - 96
+Enter marks of student 3 - 96
+Enter marks of student 4 - 91
+Enter marks of student 5 - 97
+Sorted list of student marks -  [91, 96, 96, 97, 98]
+-------------------------Question 5-------------------------
+List after removing 4th term -  ['Red', 'Green', 'White', 'Pink', 'Yellow']
+List after removing 'Black' and 'Pink' and inserting 'Purple' -  ['Red', 'Green', 'White', 'Purple', 'Yellow']
+>>> 
